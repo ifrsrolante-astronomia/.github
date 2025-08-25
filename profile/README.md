@@ -5,49 +5,54 @@
 
 ---
 
+[![Organização](https://img.shields.io/badge/organiza%C3%A7%C3%A3o-ifrsrolante--astronomia-blue)]()
+[![Contribua](https://img.shields.io/badge/contribua-%F0%9F%92%BE-orange)]()
+
 ## 🔭 Sobre nós
 
-O **Clube de Astronomia** é um espaço colaborativo para quem gosta de olhar para o céu e também para o código.
-Aqui você vai encontrar:
+O **Clube de Astronomia** é um espaço colaborativo para quem gosta de olhar para o céu. Nosso objetivo é aproximar pessoas da ciência por meio de conteúdo, projetos práticos e eventos.
 
-- 🌠 **Artigos** e conteúdos sobre astronomia.
-- 📡 **Projetos de software** relacionados a ciência e exploração.
-- 📖 **Iniciativas educativas** para aproximar mais pessoas da astronomia.
+**O que fazemos:**
 
----
-
-## 🚀 Projetos em destaque
-
-- 🌐 [**Site oficial**](https://blogclube.pages.dev/) — nosso ponto de encontro na web.
-- 📝 [**Blog**](https://blogclube.pages.dev/blog/) — artigos, atualizações e reflexões sobre o universo.
-- 🔬 **APIs e experimentos** — em breve!
+- 🌠 **Artigos** e conteúdos didáticos sobre astronomia.
+- 📖 **Iniciativas educativas**: oficinas, palestras, oficinas em escolas e material didático.
+- 🤝 **Comunidade aberta**: qualquer pessoa pode participar — estudantes, professores, entusiastas e desenvolvedores.
 
 ---
 
-## 🤝 Como contribuir
+## 🚀 Destaques
 
-Quer participar? Todo mundo é bem-vindo!
-
-- Confira nosso [**CONTRIBUTING.md**](./CONTRIBUTING.md).
-- Abra uma **issue** ou envie um **pull request**.
-- Entre em contato, compartilhe ideias e colabore.
+- 🌐 **Site oficial:** [https://blogclube.pages.dev/](https://blogclube.pages.dev/)
+- 📝 **Blog:** [https://blogclube.pages.dev/blog/](https://blogclube.pages.dev/blog/)
 
 ---
 
-## ✨ Equipe & comunidade
+## 🎯 Missão, Visão e Valores
 
-Este projeto é mantido com dedicação por entusiastas da astronomia e tecnologia.
+- **Missão:** Popularizar a astronomia e promover aprendizado prático e colaborativo.
+- **Visão:** Ser referência regional em educação astronômica aberta e tecnologia aplicada ao estudo do céu.
+- **Valores:** abertura, colaboração, ética científica, acessibilidade e empatia.
 
-💡 **Fundador / principal mantenedor:** [@diegooilv](https://github.com/diegooilv)
-🌍 Organização aberta para colaboradores.
+---
+
+## 👥 Equipe & mantenedores
+
+- 💡 **Fundador / principal mantenedor:** [@diegooilv](https://github.com/diegooilv)
+- 🌍 **Organização:** ifrsrolante-astronomia (aberta a colaboradores)
 
 ---
 
 ## 📬 Contato
 
-- 💻 GitHub: [ifrsrolante-astronomia](https://github.com/ifrsrolante-astronomia)
-- ✨ Perfil pessoal: [@diegooilv](https://github.com/diegooilv)
+- 💻 GitHub: [https://github.com/ifrsrolante-astronomia](https://github.com/ifrsrolante-astronomia)
+- ✨ Perfil pessoal: [https://github.com/diegooilv](https://github.com/diegooilv)
 
 ---
 
-🪐 _"A astronomia obriga a alma a olhar para cima e nos conduz deste mundo para outro."_ — Platão
+## 🏆 Agradecimentos
+
+Agradecemos a todos os colaboradores, professores e instituições que apoiam a divulgação científica.
+
+---
+
+> 🪐 _"A astronomia obriga a alma a olhar para cima e nos conduz deste mundo para outro."_ — Platão
